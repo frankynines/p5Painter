@@ -1,0 +1,16 @@
+.sidebar {
+    width: 200px;
+    height: 100%;
+    padding: 20px;
+    float: right;
+  }
+  
+  .canvas-container {
+    float: left;
+  }
+  
+  #canvas {
+    border: 1px solid #000;
+    width: 500px;
+    height: 500px;
+  }
